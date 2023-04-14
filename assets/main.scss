@@ -1,0 +1,23 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$content-width: 80%;
+
+@import "minima";
+
+.site-nav {
+  line-height: 80px;
+  font-weight: bold;
+}
+
+.site-title {
+  left: 0px;
+  width: 25%;
+  height: auto;
+  content: url("/assets/logo.png");
+  display: inline-block;
+  position: relative;
+}
+
+.site-footer {display: none;}
