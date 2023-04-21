@@ -32,8 +32,8 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - projects.markdown
-  - datasets.markdown
+  - projects/projects.markdown
+  - datasets/datasets.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
