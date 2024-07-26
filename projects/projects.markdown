@@ -5,6 +5,7 @@ permalink: /projects/
 ---
 
 * [3D Reconstruction (LS3D)](https://www.elderlab.yorku.ca/ls3d/)
+* [AirChair: Robot Wheelchair Convoys for Assistive Human Transportation](/projects/airchair/)
 * [Attentive Sensing for Dynamic Scene Analysis](https://www.elderlab.yorku.ca/research/sensing/)
 * [Automatic 3D Video Analytics for Traffic and Road Condition Assessment](https://www.elderlab.yorku.ca/research/atraffic/)
 * [Contour Mapping Measure (CMM)](https://www.elderlab.yorku.ca/resources/contour-mapping-measure/)
